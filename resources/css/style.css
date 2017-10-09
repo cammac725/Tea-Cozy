@@ -10,9 +10,7 @@ header {
 }
 
 footer {
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
+
 }
 
 div {
