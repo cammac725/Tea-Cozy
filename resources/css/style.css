@@ -62,6 +62,13 @@ nav span {
     margin: auto;
 }
 
+#featured {
+  width: 1000px;
+  height: 800px;
+  margin: auto;
+  padding: 75px;
+}
+
 
 
 footer {
