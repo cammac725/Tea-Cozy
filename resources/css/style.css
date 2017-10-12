@@ -63,14 +63,25 @@ nav span {
 }
 
 #featured {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   width: 1000px;
   height: 800px;
   margin: auto;
   padding: 75px;
 }
 
+#featured .items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
 
-
-footer {
-
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
